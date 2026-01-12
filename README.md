@@ -1,4 +1,4 @@
-# Statistical-Package-of-Social-Science-SPSS-
+# Statistical-Package-of-Social-Science-SPSS
 
 SPSS is a specialized software technology for statistical analysis. Developed originally as the Statistical Package for the Social Sciences, it now operates under IBM SPSS Statistics and serves as a predictive analytics tool.
 
